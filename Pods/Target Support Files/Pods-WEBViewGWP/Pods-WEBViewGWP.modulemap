@@ -1,0 +1,6 @@
+framework module Pods_WEBViewGWP {
+  umbrella header "Pods-WEBViewGWP-umbrella.h"
+
+  export *
+  module * { export * }
+}
